@@ -1,0 +1,6 @@
+{
+  "name": "QuestEarn",
+  "description": "A rewards store where users can redeem XP for real-world value.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
